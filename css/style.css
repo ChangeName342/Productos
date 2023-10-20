@@ -1,0 +1,65 @@
+header {
+    display: flex;
+    border: 1px solid black;
+    background-color:lightskyblue;
+}
+
+#header-title {
+    text-indent: 50px;
+    padding: 50px;
+}
+
+nav {
+    display: flex;
+    text-indent: 370px;
+    border: 1px solid black;
+    background-color: lightskyblue;
+    padding: 10px 10px 10px 10px;
+}
+
+a:hover {
+    color: green;
+    font-size: 20px;
+    font-family: fantasy;
+    text-decoration: none;
+}
+
+.article-index {
+    border: 1px solid black;
+    padding: 50px 50px 50px 50px;
+}
+
+.section-cel {
+    display: flex;
+    text-indent: 20px;
+    margin: 0 500px 0 500px;
+    border: 1px solid black;
+}
+
+footer {
+    display: flex;
+    border: 1px solid black;
+    background-color:lightskyblue;
+    padding: 10px 500px 10px 500px;
+    text-indent: 150px;
+}
+
+.section-title {
+    padding: 10px 700px 10px 700px;
+}
+
+.section-article {
+    display: flex;
+}
+
+article {
+    border: 1px solid black;
+    padding: 0 0 30px;
+}
+
+
+
+
+
+
+
